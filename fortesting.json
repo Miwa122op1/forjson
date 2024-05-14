@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 1111111111,
+      "message": {
+        "message_id": 153,
+        "from": {
+          "id": 22222222,
+          "first_name": "имя",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 1111111111,
+          "first_name": "имя",
+          "type": "private"
+        },
+        "date": 33333333,
+        "text": "текст"
+      }
+    },
+    {
+      "update_id": 11111112222,
+      "message": {
+        "message_id": 154,
+        "from": {
+          "id": 4444444444,
+          "first_name": "имя",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 11111122222,
+          "first_name": "имя",
+          "type": "private"
+        },
+        "date": 3535353535,
+        "text": "текст"
+      }
+    },
